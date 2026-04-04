@@ -1,0 +1,30 @@
+fastapi[standard]
+uvicorn[standard]
+streamlit
+requests
+
+# ML / embeddings / semantic search
+torch
+transformers
+accelerate
+safetensors
+sentencepiece
+numpy
+pandas
+tqdm
+rank-bm25
+
+# Audio / dataset handling
+datasets[audio]
+librosa
+soundfile
+huggingface_hub
+
+# Optional: sentence-transformers
+sentence-transformers
+
+# Optional: PEFT adapter
+peft
+
+# Optional: NeMo ASR
+nemo_toolkit[asr]

@@ -23,6 +23,12 @@ python embedding/embedding_from_csv.py
 python search/semantic_search_audio.py
 ```
 
+For the GUI (Each in a different terminal process simultanously)
+```bash
+python api.py
+python streamlit run ui.py
+```
+
 ## Input
 CSV file with:
 - file_name
