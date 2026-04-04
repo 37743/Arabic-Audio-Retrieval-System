@@ -1,0 +1,39 @@
+
+
+SEMANTIC QUERY: التيك توك
+============================================================
+
+Result 1 (Score: 1.0000)
+File: ARA NORM 00002.wav
+Best Chunk Index: 0
+Best Matching Chunk: التيك توك
+Full Transcription: التيك توك
+------------------------------------------------------------
+
+Result 2 (Score: 1.0000)
+File: ARA NORM 00426.wav
+Best Chunk Index: 0
+Best Matching Chunk: التيك توك
+Full Transcription: التيك توك
+------------------------------------------------------------
+
+Result 3 (Score: 0.9545)
+File: ARA NORM 00223.wav
+Best Chunk Index: 0
+Best Matching Chunk: تيك توك
+Full Transcription: تيك توك
+------------------------------------------------------------
+
+Result 4 (Score: 0.9149)
+File: ARA NORM 00017.wav
+Best Chunk Index: 0
+Best Matching Chunk: تي توك
+Full Transcription: تي توك
+------------------------------------------------------------
+
+Result 5 (Score: 0.9012)
+File: ARA NORM 01171.wav
+Best Chunk Index: 0
+Best Matching Chunk: هكمل برض
+Full Transcription: هكمل برض
+------------------------------------------------------------
