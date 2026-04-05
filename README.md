@@ -2,7 +2,7 @@
 
 ## Overview
 This project retrieves relevant arabic audio files based on semantic meaning of their transcriptions.  
-The pipeline converts audio files into text, embeds the transcriptions using a multilingual sentence transformer, and performs semantic search to return the most relevant audio files. A 
+The pipeline converts audio files into text, embeds the transcriptions using a multilingual sentence transformer, and performs semantic search to return the most relevant audio files.
 
 ## Pipeline
 1. Transcribe audio files into text
