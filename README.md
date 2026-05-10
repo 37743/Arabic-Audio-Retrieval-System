@@ -23,11 +23,12 @@ python embedding/embedding_from_csv.py
 python search/semantic_search_audio.py
 ```
 
-For the GUI (Each in a different terminal process simultanously)
+For the GUI
 ```bash
 python api.py
-python streamlit run ui.py
 ```
+
+Then follow-up by opening the html website.
 
 ## Input
 CSV file with:
